@@ -1,0 +1,50 @@
+.v-line {
+    position: absolute;
+    left: 845px;
+    top: 100px;
+    border-left :solid #aacae6	;
+    border-left-width: 10px;
+    height : 880px;
+    z-index: 2;
+
+  }
+
+  .v-line2 {
+    position: absolute;
+    left: 845px;
+    top: 100px;
+    border-left :solid #aacae6	;
+    border-left-width: 10px;
+    height : 500px;
+    z-index: 2;
+
+  }
+
+
+.wline {
+    position: absolute;
+    border: thick solid #002c5f;
+    background-color: #002c5f;
+    color: white;
+    width: 1600px;
+    height: 60px;
+    font-size: 30px;
+    
+  }
+
+.wline2 {
+    position: absolute;
+    border: solid #002c5f;
+    width: 1680px;
+    height: px;
+    
+  }
+.wline3 {
+    position: absolute;
+    border: thick solid #e4dcd3;
+    background-color: #e4dcd3;
+    width: 1600px;
+    height: 210px;
+    font-size: 18px;
+    
+  }
